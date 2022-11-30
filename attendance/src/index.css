@@ -1,0 +1,165 @@
+/*Styles all of react*/
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: blue;
+  font-size: 20px;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #35d5f1;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+p {
+  color: rgb(10, 111, 243);
+  padding: 50px;
+  font-size: 20px;
+}
+
+/* create new log in form */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2, .ModuleLeader h2 {
+  font-size: 30px;
+  color: blue;
+  margin-bottom: 30px;
+}
+.create input, .create select{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: Blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.create select{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+  background-color:#fff;
+  color:rgb(10, 111, 243);
+}
+
+.Tutor a{
+  background: Blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.Tutorregister button{
+  background: Blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Tutorregister button:hover {
+  color: #35d5f1;
+}
+
+.student-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.student-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.student-preview h2 {
+  font-size: 20px;
+  color: blue;
+  margin-bottom: 8px;
+}
+
+.Student button{
+  background: Blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Tutor button{
+  background: Blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.newStudent button{
+  background: Blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.newStudent label{
+  color: #35d5f1;
+  padding: 8px;
+}
+
+.ManualRegister button{
+  background: blue;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+}

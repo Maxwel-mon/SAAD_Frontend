@@ -1,0 +1,121 @@
+{
+  "students": [
+    {
+      "name": "Amaan",
+      "attendance": "100%",
+      "id": "1"
+    },
+    {
+      "name": "Adam",
+      "attendance": "80%",
+      "id": "2"
+    },
+    {
+      "name": "Aaron",
+      "attendance": "60%",
+      "id": "3"
+    },
+    {
+      "name": "John",
+      "attendance": "100%",
+      "id": "Hh2wmJY"
+    },
+    {
+      "name": "Tom",
+      "attendance": "50%",
+      "id": "p4VGx3U"
+    },
+    {
+      "email": "a",
+      "username": "b",
+      "password": "c",
+      "confirmpassword": "d",
+      "id": "vVlBNj9"
+    },
+    {
+      "email": "a",
+      "username": "b",
+      "password": "c",
+      "confirmpassword": "d",
+      "id": "vNnfnFA"
+    },
+    {
+      "username": "a",
+      "password": "b",
+      "id": "A3oUBh-"
+    },
+    {
+      "email": "h",
+      "username": "i",
+      "password": "j",
+      "confirmpassword": "k",
+      "role": "",
+      "id": "V8J5v2Y"
+    },
+    {
+      "email": "j",
+      "username": "o",
+      "password": "i",
+      "confirmpassword": "d",
+      "role": "Student",
+      "id": "hBSKTpb"
+    },
+    {
+      "name": "dgfhgj",
+      "attendance": "50%",
+      "id": "M8GuEy7"
+    },
+    {
+      "code": 4457,
+      "id": "dH-jUsx"
+    },
+    {
+      "code": 3084,
+      "id": "yrzXfSh"
+    }
+  ],
+  "codes": [
+    {
+      "code": 5922,
+      "id": 1
+    }
+  ],
+  "NewUsers": [
+    {
+      "email": "a",
+      "username": "b",
+      "password": "c",
+      "confirmpassword": "d",
+      "role": "Tutor",
+      "id": 1
+    },
+    {
+      "email": "g",
+      "username": "o",
+      "password": "0",
+      "confirmpassword": "d",
+      "role": "Tutor",
+      "id": 2
+    },
+    {
+      "email": "fhyj",
+      "username": "gfh",
+      "password": "th",
+      "confirmpassword": "dh",
+      "role": "Tutor",
+      "id": 3
+    }
+  ],
+  "LogIns": [
+    {
+      "username": "a",
+      "password": "a",
+      "id": 1
+    },
+    {
+      "username": "ghj",
+      "password": "dgfh",
+      "id": 2
+    }
+  ]
+}
